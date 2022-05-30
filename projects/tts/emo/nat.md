@@ -1,5 +1,5 @@
 ---
-title: EmoTTS Project: Emotional Speech Synthesis with Non-Attentive Tacotron
+title: EmoTTS Project — Emotional Speech Synthesis with Non-Attentive Tacotron
 ---
 
 arXiv: link here
