@@ -2,13 +2,13 @@
 title: EmoTTS Project — Emotional Speech Synthesis with Non-Attentive Tacotron
 ---
 
-arXiv: link here
+arXiv: link will be here
 
 # Authors
 Names Here, Names There
 
 # Abstract
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Work in progress, we will be ready by late August, 2022 due to vacation season 🏖️
 
 # Audio Samples
 <audio controls src="https://github.com/diparty/diparty.github.io/raw/main/projects/tts/emo/example.wav"></audio>
